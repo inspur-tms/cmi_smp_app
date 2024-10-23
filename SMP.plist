@@ -25,13 +25,13 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.inspur.obd.tms</string>
+                    <string>com.inspur.obd.smp</string>
                     <key>bundle-version</key>
                     <string>100</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>TMS</string>
+                    <string>SMP</string>
                 </dict>
             </dict>
         </array>
